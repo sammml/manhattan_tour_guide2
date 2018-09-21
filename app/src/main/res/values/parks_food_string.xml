@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- information for parks - battery 1-->
+    <string name="battery_name">Battery Park</string>
+    <string name="battery_address">New York, NY 10004 </string>
+    <string name="battery_hours">24 hours</string>
+    <string name="battery_about">located at the southern tip of Manhattan Island in New York City facing New York Harbor</string>
+
+    <!-- information for parks - bryant 2-->
+    <string name="bryant_name">Bryant Park</string>
+    <string name="bryant_address">New York, NY 10018 </string>
+    <string name="bryant_hours">Everyday: 7AM - 10PM</string>
+    <string name="bryant_about">9.603-acre privately managed public park </string>
+
+    <!-- information for parks - central 3-->
+    <string name="central_name">Central Park</string>
+    <string name="central_address">New York, NY</string>
+    <string name="central_hours">Everyday: 6AM - 1AM</string>
+    <string name="central_about">fifth-largest park in New York City, covering 843 acres</string>
+
+    <!-- information for parks - highline 4-->
+    <string name="highline_name">High Line Park</string>
+    <string name="highline_address">New York, NY 10011 </string>
+    <string name="highline_hours">Everyday: 7AM - 11PM</string>
+    <string name="highline_about"> 1.45-mile-long elevated linear park, greenway and rail trail</string>
+
+    <!-- information for parks - madison square 5-->
+    <string name="madison_name">Madison Square Park</string>
+    <string name="madison_address">11 Madison Ave, New York, NY 10010 </string>
+    <string name="madison_hours">Everyday: 6AM - 11PM</string>
+    <string name="madison_about">Public green space featuring sculptures, a dog run and views of the Flatiron Building.</string>
+
+
+    <!-- information for parks - washiongton square park 6-->
+    <string name="washington_name">Washington Square Park</string>
+    <string name="washington_address">New York, NY 10012</string>
+    <string name="washington_hours">Everyday: 6AM - 1AM</string>
+    <string name="washington_about">it is a landmark as well as a meeting place and center for cultural activity.</string>
+
+
+
+
+
+
+    <!-- information for food - absolute bagels 1-->
+    <string name="absolute_name">Absolute Bagels</string>
+    <string name="absolute_address">2788 Broadway, New York, NY 10025</string>
+    <string name="absolute_hours">Everyday: 6AM - 9PM</string>
+    <string name="absolute_about">Hand-rolled, housemade bagels</string>
+
+    <!-- information for food - Artichoke Basille's Pizza 2-->
+    <string name="artichoke_name">Artichoke Basille's Pizza</string>
+    <string name="artichoke_address">111 Macdougal St, New York, NY 10012</string>
+    <string name="artichoke_hours">Everyday: 11AM - 4AM</string>
+    <string name="artichoke_about">Big slices with creamy artichoke topping</string>
+
+    <!-- information for food - cafe zaiya 3-->
+    <string name="zaiya_name">Cafe Zaiya</string>
+    <string name="zaiya_address">1073 6th Ave, New York, NY 10018</string>
+    <string name="zaiya_hours">Mon - Fri: 8AM - 8PM, Sat: 10AM - 7PM, Sun: 11AM - 7PM</string>
+    <string name="zaiya_about">Japanese bakery with creamy soft serve ice cream </string>
+
+
+    <!-- information for food - halal guys 4-->
+    <string name="halal_name">Halal Guys</string>
+    <string name="halal_address">100-134 W 54th St, New York, NY 10019</string>
+    <string name="halal_hours">Everyday</string>
+    <string name="halal_about">platter of chicken or gyro meat with rice</string>
+
+
+    <!-- information for food - lady m 5-->
+    <string name="ladym_name">Lady M</string>
+    <string name="ladym_address">41 E 78th St, New York, NY 10075</string>
+    <string name="ladym_hours">Everyday: 10AM - 7PM</string>
+    <string name="ladym_about">Decadent but refined desserts likes crêpes and eclairs distinguish this Upper East Side bakery.</string>
+
+
+    <!-- information for food - Los Mariscos tacos 6-->
+    <string name="los_name">Los Mariscos</string>
+    <string name="los_address">409 W 15th St, New York, NY 10011</string>
+    <string name="los_hours">Mon - Thurs: 11AM - 10PM, Fri - Sat: 11AM - 12AM, Sun: 11AM - 9PM</string>
+    <string name="los_about">bustling counter-serve offering Mexican seafood</string>
+
+
+    <!-- information for food - mighty quinns bbq 7-->
+    <string name="mighty_name">Halal Guys</string>
+    <string name="mighty_address">103 2nd Avenue, New York, NY 10003</string>
+    <string name="mighty_hours">Sun - Thurs: 11:30AM - 11PM, Fri - Sat: 11:30AM - 12AM</string>
+    <string name="mighty_about">Cool counter-serve eatery featuring a menu of wood-fired BBQ classics and craft beer</string>
+
+    <!-- information for food - mimi cheng's dumplings 8-->
+    <string name="mimi_name">Mimi Cheng's Dumplings</string>
+    <string name="mimi_address">179 2nd Ave, New York, NY 10003</string>
+    <string name="mimi_hours">Sun - Wednes: 11:30AM - 9:30PM, Thurs - Sat: 11:30AM - 10PM</string>
+    <string name="mimi_about">several different Chinese dumplings made from family recipes</string>
+
+
+    <!-- information for food - momofuko ssam bar 9-->
+    <string name="momo_name">Momofuku Ssäm Bar</string>
+    <string name="momo_address">East 13th Street, 207 2nd Ave, New York, NY 10003</string>
+    <string name="momo_hours">Everyday: 11:30AM - 3PM, 5:30PM - 11:30PM</string>
+    <string name="momo_about">sPork dishes are prominently featured at this bustling Asian eatery from chef David Chang.</string>
+
+    <!-- information for food - nonono 10 -->
+    <string name="nonono_name">NONONO</string>
+    <string name="nonono_address">118 Madison Ave, New York, NY 10016</string>
+    <string name="nonono_hours">Mon - Fri: 12PM - 2:30PM, 5PM - 10:30PM, Sat - Sun: 5PM - 11:30PM</string>
+    <string name="nonono_about">made with the entire chicken from a to z, all bones for ramen broth</string>
+
+
+
+</resources>

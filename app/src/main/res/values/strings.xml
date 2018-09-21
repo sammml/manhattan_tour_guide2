@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Manhattan Tour Guide</string>
+
+    <!-- Category name for must see [CHAR LIMIT=20] -->
+    <string name="category_must_see">must see</string>
+
+    <!-- Category name for museums [CHAR LIMIT=20] -->
+    <string name="category_museums">museums</string>
+
+    <!-- Category name for parks [CHAR LIMIT=20] -->
+    <string name="category_parks">parks</string>
+
+    <!-- Category name for food [CHAR LIMIT=20] -->
+    <string name="category_food">food</string>
+
+
+
+    <!-- information for must see - 9/11 memorial 1-->
+    <string name="memorial_name">9/11 Memorial</string>
+    <string name="memorial_address">180 Greenwich St, New York, NY 10007</string>
+    <string name="memorial_hours">Everyday: 9AM - 8PM</string>
+    <string name="memorial_about">commemorating Sept 11, 2001 attacks</string>
+
+    <!-- information for must see - chelsea market 2-->
+    <string name="chelsea_name">Chelsea Market</string>
+    <string name="chelsea_address">75 9th Ave, New York, NY 10011</string>
+    <string name="chelsea_hours">Everyday: 7AM - 2AM, Sun: 8AM - 10PM</string>
+    <string name="chelsea_about">It was built in the former National Biscuit Company factory complex (the Oreo cookie) was invented and produced.</string>
+
+    <!-- information for must see - chrysler building 3-->
+    <string name="chrysler_name">Chrysler Building</string>
+    <string name="chrysler_address">405 Lexington Ave, New York, NY 10174</string>
+    <string name="chrysler_hours">Mon - Fri: 8AM - 6PM, Sat - Sun: closed</string>
+    <string name="chrysler_about">an Art Deco–style skyscraper</string>
+
+    <!-- information for must see - empire state building 4-->
+    <string name="empire_name">Empire State Building</string>
+    <string name="empire_address">350 5th Ave, New York, NY 10118</string>
+    <string name="empire_hours">Everyday: 8AM - 2AM</string>
+    <string name="empire_about">102-story Art Deco skyscraper in Midtown Manhattan</string>
+
+    <!-- information for must see - flatiron building 5-->
+    <string name="flatiron_name">Flatiron Building</string>
+    <string name="flatiron_address">175 5th Ave, New York, NY 10010</string>
+    <string name="flatiron_hours">not open to public</string>
+    <string name="flatiron_about">a triangular 22-story, 285-foot tall steel-framed landmarked building</string>
+
+    <!-- information for must see - grand central terminal 6-->
+    <string name="grand_name">Grand Central Terminal</string>
+    <string name="grand_address">89 E 42nd St, New York, NY 10017</string>
+    <string name="grand_hours">Everyday</string>
+    <string name="grand_about">a commuter railroad terminal at 42nd Street and Park Avenue in Midtown Manhattan</string>
+
+
+    <!-- information for must see - madison square garden 7-->
+    <string name="msg_name">Madison Square Garden</string>
+    <string name="msg_address">4 Pennsylvania Plaza, New York, NY 10001</string>
+    <string name="msg_hours">based on events</string>
+    <string name="msg_about">colloquially known as The Garden or in initials as MSG, is a multi-purpose indoor arena</string>
+
+    <!-- information for must see - one world trade center 8-->
+    <string name="one_name">One World Trade Center</string>
+    <string name="one_address">285 Fulton St, New York, NY 10007</string>
+    <string name="one_hours">Everyday: 9AM - 10PM</string>
+    <string name="one_about">rebuilt World Trade Center complex in Lower Manhattan</string>
+
+    <!-- information for must see - rockerfeller center 9-->
+    <string name="rocker_name">Rockerfeller Center</string>
+    <string name="rocker_address">45 Rockefeller Plaza, New York, NY 10111</string>
+    <string name="rocker_hours">Everyday</string>
+    <string name="rocker_about">large complex consisting of 19 commercial buildings covering 22 acres between 48th and 51st Streets</string>
+
+    <!-- information for must see - times square 10-->
+    <string name="tsq_name">Times Square</string>
+    <string name="tsq_address">Manhattan, NY 10036</string>
+    <string name="tsq_hours">Everyday</string>
+    <string name="tsq_about">major commercial intersection, tourist destination, entertainment center</string>
+
+
+
+
+
+    <!-- information for museums - american museum of natural history 1-->
+    <string name="american_name">American Museum of Natural History</string>
+    <string name="american_address">Central Park West and 79th St, New York, NY </string>
+    <string name="american_hours">Everyday: 10AM - 5:45PM</string>
+    <string name="american_about">museum collections contain over 33 million specimens[5] of plants, animals, fossils, minerals, rocks, meteorites, human remains, and human cultural artifacts</string>
+
+    <!-- information for museums - cooper hewitt smithsonian design museum 2-->
+    <string name="cooper_name">Cooper Hewitt Smithsonian Design Museum</string>
+    <string name="cooper_address">2 E 91st St, New York, NY 10128 </string>
+    <string name="cooper_hours">Everyday: 10AM - 6PM</string>
+    <string name="cooper_about">design museum</string>
+
+    <!-- information for museums - new museum 3-->
+    <string name="new_name">New Museum</string>
+    <string name="new_address">235 Bowery, New York, NY 10002 </string>
+    <string name="new_hours">Everyday: 11AM - 6PM, Thurs: 11AM - 9PM</string>
+    <string name="new_about">contemporary art museum</string>
+
+    <!-- information for museums - Metropolitan Museum of Art 4-->
+    <string name="met_name">Metropolitan Museum of Art</string>
+    <string name="met_address">1000 5th Ave, New York, NY 10028 </string>
+    <string name="met_hours">Sun - Thurs: 10AM - 5:30PM, Fri - Sat: 10AM - 9PM</string>
+    <string name="met_about">largest art museum in the United States</string>
+
+    <!-- information for museums - museum of modern art 5-->
+    <string name="moma_name">Museum of Modern Art</string>
+    <string name="moma_address">11 W 53rd St, New York, NY 10019</string>
+    <string name="moma_hours">Sat - Thurs: 10:30AM - 5:30PM, Fri: 10:30AM - 8PM</string>
+    <string name="moma_about">developing and collecting modernist art</string>
+
+    <!-- information for museums - museum of art and design 6-->
+    <string name="moad_name">Museum of Arts and Design</string>
+    <string name="moad_address">2 Columbus Cir, New York, NY 10019</string>
+    <string name="moad_hours">Fri - Wed: 10AM - 6PM, Thurs: 10Am - 9PM</string>
+    <string name="moad_about">collects, displays, and interprets objects that document contemporary and historic innovation in craft, art, and design</string>
+
+    <!-- information for museums - museum of FIT 7-->
+    <string name="fit_name">Museum of FIT</string>
+    <string name="fit_address">227 W 27th St, New York, NY 10001</string>
+    <string name="fit_hours">Tues - Fri: 12PM - 8PM, Sat: 10AM - 5PM, Sun - Mon: closed</string>
+    <string name="fit_about">Rotating exhibits and permanent collection of garments and accessories; free admission.</string>
+
+    <!-- information for museums - museum of sex 8-->
+    <string name="sex_name">Museum of Sex</string>
+    <string name="sex_address">233 5th Ave, New York, NY 10016</string>
+    <string name="sex_hours">Sun - Thurs: 10:30AM - 11PM, Fri - Sat: 10:30AM - 12AM</string>
+    <string name="sex_about">history of adult entertainment developments</string>
+
+    <!-- information for museums - solomon R. Guggenheim museum 9-->
+    <string name="gugg_name">Solomon R. Guggenheim Museum</string>
+    <string name="gugg_address">1071 5th Ave, New York, NY 10128</string>
+    <string name="gugg_hours">Sun - Wed: 10AM - 5:45PM, Thurs: closed, Fri: 10AM - 5:45PM, Sat: 10AM - 7:45PM</string>
+    <string name="gugg_about">continuously expanding collection of Impressionist, Post-Impressionist, early Modern and contemporary art</string>
+
+    <!-- information for museums - whitney museum of art 10-->
+    <string name="whitney_name">Whitney Museum of American Art</string>
+    <string name="whitney_address">99 Gansevoort St, New York, NY 10014</string>
+    <string name="whitney_hours">Sun - Wed: 10:30AM - 6PM, Tues: closed, Fri - Sat: 10:30AM - 10PM</string>
+    <string name="whitney_about">permanent collection comprises more than 21,000 paintings, sculptures, drawings, prints, photographs, films, videos, and artifacts of new media by more than 3,000 artists.</string>
+
+</resources>
